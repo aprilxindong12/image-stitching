@@ -43,3 +43,13 @@ stitch an_image_folder --image_ext bmp --stitchForward 1 --work_megapix 0.6
   * **-2** image or stitched part out of the allowed range of rotation or the estimated transformation is incorrect
 
   * **-3** estimated transformation of the image or stitched part is out of the allowed range of scaling
+  
+## Results
+  
+# 997 images stitched together
+
+![result1](https://github.com/aprilxindong12/image-stitching/blob/master/results/result1.png)
+
+# 888 images stitched together
+
+![result2](https://github.com/aprilxindong12/image-stitching/blob/master/results/result2.png)
