@@ -24,13 +24,13 @@ stitch an_image_folder --image_ext bmp --stitchForward 1 --work_megapix 0.6
 
 * **Result panorama, result panorama with transparent borders, result panorama mask** (for mapping purposes)
 
-* **outputs.xml** (stitching parameters and summary of results)
+* ***outputs.xml*** (stitching parameters and summary of results)
 
-* **matrices.xml** (for mapping purposes) 
+* ***matrices.xml*** (for mapping purposes) 
 
-* **csv_outputs.csv** (stitching information)
+* ***csv_outputs.csv*** (stitching information)
 
-### Interpreting "csv_outputs.csv"
+### Interpreting *csv_outputs.csv*
 
 * **no_of_rows/new_no_of_rows**
 
