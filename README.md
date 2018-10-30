@@ -46,10 +46,10 @@ stitch an_image_folder --image_ext bmp --stitchForward 1 --work_megapix 0.6
   
 ## Results
   
-# 997 images stitched together
+### 997 images stitched together
 
 ![result1](https://github.com/aprilxindong12/image-stitching/blob/master/results/result1.png)
 
-# 888 images stitched together
+### 888 images stitched together
 
 ![result2](https://github.com/aprilxindong12/image-stitching/blob/master/results/result2.png)
