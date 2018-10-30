@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FORWARD>0</FORWARD>
+<MIN_NO_OF_INLIERS>8</MIN_NO_OF_INLIERS>
+<MAX_NO_OF_MISMATCHES>10</MAX_NO_OF_MISMATCHES>
+<MIN_NO_OF_ROWS>1</MIN_NO_OF_ROWS>
+<WORK_SCALE>5.9999999999999998e-01</WORK_SCALE>
+<MATCH_THRESHOLD_1>2.9999999999999999e-01</MATCH_THRESHOLD_1>
+<MAX_NO_OF_STITCHING_PARTS>10</MAX_NO_OF_STITCHING_PARTS>
+<NO_OF_OVERLAPPING_FRAMES>70</NO_OF_OVERLAPPING_FRAMES>
+<MIN_NO_OF_INLIERS_2>8</MIN_NO_OF_INLIERS_2>
+<MATCH_THRESHOLD_2>2.0000000000000001e-01</MATCH_THRESHOLD_2>
+<ROI_ROWS>2</ROI_ROWS>
+<no_of_input_images>888</no_of_input_images>
+<input_image_width>1920</input_image_width>
+<input_image_height>540</input_image_height>
+<expected_result_image_height>8779</expected_result_image_height>
+<stitching_time_in_microseconds>7.3638399654153109e+08</stitching_time_in_microseconds>
+</opencv_storage>
