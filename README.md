@@ -32,14 +32,14 @@ stitch an_image_folder --image_ext bmp --stitchForward 1 --work_megapix 0.6
 
 ### Interpreting "csv_outputs.csv"
 
-**no_of_rows/new_no_of_rows**
+* **no_of_rows/new_no_of_rows**
 
-**>0**: number of new rows from the image or stitched part
+  * **>0** number of new rows from the image or stitched part
 
-**0**: no new rows in the image or stitched part
+  * **0** no new rows in the image or stitched part
 
-**-1**: not enough no_of_inliers in the image or stitched part
+  * **-1** not enough no_of_inliers in the image or stitched part
 
-**-2**: image or stitched part out of the allowed range of rotation or the estimated transformation is incorrect
+  * **-2** image or stitched part out of the allowed range of rotation or the estimated transformation is incorrect
 
-**-3**: estimated transformation of the image or stitched part is out of the allowed range of scaling
+  * **-3** estimated transformation of the image or stitched part is out of the allowed range of scaling
